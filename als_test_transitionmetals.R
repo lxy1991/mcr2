@@ -1,0 +1,1 @@
+mcr.modF <- als(S=list(spcPs),nonnegS=F,nonnegC=T,CList=list(matrix(0,3,33)),PsiList=list(t(allspec)))
